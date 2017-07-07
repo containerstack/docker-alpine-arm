@@ -32,7 +32,7 @@ ENTRYPOINT ["mysql"]
 This took 19 seconds to build and yields a 164 MB image. Eww. Start doing this:
 
 ```dockerfile
-FROM containerstack/alpine:3.5.0
+FROM containerstack/alpine:3.6.2
 RUN apk add --no-cache mysql-client
 ENTRYPOINT ["mysql"]
 ```
