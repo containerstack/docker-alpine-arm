@@ -40,7 +40,7 @@ ENTRYPOINT ["mysql"]
 Only 3 seconds to build and results in a 36 MB image! Hooray!
 
 ## Other helpfull stuf
-
+Links to usefull websites
 [alpine]: http://alpinelinux.org/
 [alpine-packages]: http://pkgs.alpinelinux.org/
 [alpine-about]: https://www.alpinelinux.org/about/
