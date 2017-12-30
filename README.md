@@ -40,9 +40,9 @@ ENTRYPOINT ["mysql"]
 Only 3 seconds to build and results in a 36 MB image! Hooray!
 
 ## Other helpfull stuf
-Links to usefull websites
-[alpine]: http://alpinelinux.org/
-[alpine-packages]: http://pkgs.alpinelinux.org/
-[alpine-about]: https://www.alpinelinux.org/about/
-[issues]: https://github.com/containerstack/docker-alpine/issues
+Links to usefull websites <br>
+[alpine]: http://alpinelinux.org/ <br>
+[alpine-packages]: http://pkgs.alpinelinux.org/ <br>
+[alpine-about]: https://www.alpinelinux.org/about/ <br>
+[issues]: https://github.com/containerstack/docker-alpine/issues <br>
 [hub]: https://hub.docker.com/r/containerstack/alpine/
